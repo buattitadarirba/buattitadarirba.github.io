@@ -100,66 +100,78 @@ document.querySelector(".tombol").addEventListener('click', function () {
                         'success'
                       ).then((result) => {
                         Swal.fire(
-                          'Pinter, Cantikk, Tangguhh !!!',
+                          'Oiya jangan bosen aku kirimin link ginian yaa',
                           '',
                           'success'
                         ).then((result) => {
                           Swal.fire(
-                            'Pokoknyaa cemungutt yaa',
+                            'Semoga enggak ngeganggu kamu yaa',
                             '',
                             'success'
                           ).then((result) => {
                             Swal.fire(
-                              'Have a nice dayyy !!',
+                              'Pinter, Cantikk, Tangguhh !!!',
                               '',
                               'success'
                             ).then((result) => {
                               Swal.fire(
-                                'Sukses UAS nyaaa',
+                                'Pokoknyaa cemungutt yaa',
                                 '',
                                 'success'
                               ).then((result) => {
                                 Swal.fire(
-                                  'Doa terbaik buat kamu yaa',
+                                  'Have a nice dayyy !!',
                                   '',
                                   'success'
                                 ).then((result) => {
                                   Swal.fire(
-                                    'Boleh banget lhohh contekannya xixixi!!',
+                                    'Sukses UAS nyaaa',
                                     '',
                                     'success'
                                   ).then((result) => {
                                     Swal.fire(
-                                      'Oiya satu lagii',
+                                      'Doa terbaik buat kamu yaa',
                                       '',
                                       'success'
                                     ).then((result) => {
                                       Swal.fire(
-                                        'I Really Miss U!!, yukk ditunggu yhah main barengnya',
+                                        'Boleh banget lhohh contekannya xixixi!!',
                                         '',
                                         'success'
                                       ).then((result) => {
                                         Swal.fire(
-                                          'ditunggu canda tawa barengnya',
+                                          'Oiya satu lagii',
                                           '',
                                           'success'
                                         ).then((result) => {
                                           Swal.fire(
-                                            'kangen cerita cerita dan ndengerin cerita kamu hehe',
+                                            'I Really Miss U!!, yukk ditunggu yhah main barengnya',
                                             '',
                                             'success'
                                           ).then((result) => {
                                             Swal.fire(
-                                              'kangen banget sama kalimat, tau ga, eh kak tau gaa, xixixi',
+                                              'ditunggu canda tawa barengnya',
                                               '',
                                               'success'
                                             ).then((result) => {
                                               Swal.fire(
-                                                'See Youu yaa cantikk!!',
+                                                'kangen cerita cerita dan ndengerin cerita kamu hehe',
                                                 '',
                                                 'success'
                                               ).then((result) => {
+                                                Swal.fire(
+                                                  'kangen banget sama kalimat, tau ga, eh kak tau gaa, xixixi',
+                                                  '',
+                                                  'success'
+                                                ).then((result) => {
+                                                  Swal.fire(
+                                                    'See Youu yaa cantikk!!',
+                                                    '',
+                                                    'success'
+                                                  ).then((result) => {
 
+                                                  })
+                                                })
                                               })
                                             })
                                           })
