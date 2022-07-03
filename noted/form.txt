@@ -1,0 +1,7 @@
+Swal.fire(
+                          'Pinter, Cantikk, Tangguhh !!!',
+                          '',
+                          'success'
+                        ).then((result) => {
+                          
+                        })
