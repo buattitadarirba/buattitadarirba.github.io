@@ -95,7 +95,7 @@ document.querySelector(".tombol").addEventListener('click', function () {
                       'success'
                     ).then((result) => {
                       Swal.fire(
-                        'Im Proud Youuu',
+                        'Im Proud Of Youuu',
                         '',
                         'success'
                       ).then((result) => {
