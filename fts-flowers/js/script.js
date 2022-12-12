@@ -17,7 +17,7 @@ function time() {
   var d = new Date();
   var n = d.getHours();
   console.log(n);
-  if (n >= 5 && n <= 10) {
+  if (n >= 1 && n <= 10) {
     return "Pagi"
   } else if (n >= 10 && n <= 15) {
     return "Siang"
@@ -59,17 +59,17 @@ function selesai() {
 
 document.querySelector(".tombol").addEventListener('click', function () {
   Swal.fire({
-    title: 'Hai Sayang Tiiitaatiitutt LOPPPP 🤍🤍🤍!',
-    html: `Selamat ${time()}, sayangkuu cintakuu lopp 🤍🤍`,
+    title: 'Hai Sayangku cantikku tingtuutt maloppp 🤍🤍🤍!',
+    html: `Selamat ${time()}, sayangkuu cintakuu malopp 🤍🤍`,
     timer: 3500,
     timerProgressBar: true,
     showConfirmButton: false,
   }).then((result) => {
     if (result.dismiss === Swal.DismissReason.timer) {
-      Swal.fire('Sehatt sehatt yaa sayang akuu tiitatiitutt 🤍🤍').then((result) => {
+      Swal.fire('Sehatt sehatt yaa sayang akuu tingtuttt 🤍🤍').then((result) => {
         Swal.fire({
           title: ' ',
-          html: `aku, Ryandhika sayang kamuu, cintaa kamuuu tiitaatituuttt 🤍🤍`,
+          html: `aku, dikaadikoo sayang kamuu, cintaa kamuuu tingtutt cancippp 🤍🤍`,
           timer: 4500,
           timerProgressBar: true,
           showConfirmButton: false,
@@ -77,99 +77,99 @@ document.querySelector(".tombol").addEventListener('click', function () {
           if (result.dismiss === Swal.DismissReason.timer) {
             Swal.fire({
               title: ' ',
-              html: `Miccccuuuuuuu sayang aku lopp 🤍🤍`,
+              html: `Miccccuuuuuuu sayang aku malopp 🤍🤍`,
               timer: 4500,
               timerProgressBar: true,
               showConfirmButton: false,
             }).then((result) => {
               if (result.dismiss === Swal.DismissReason.timer) {
-                Swal.fire('Cemungutt teruss yaa sayangkulopp🤍').then((result) => {
+                Swal.fire('Sayang sayang aku mau kasih kamu sesuatuuu🤍').then((result) => {
                   Swal.fire(
-                    'Cemunguuttss UTS Semester 3 nyaa yaa sayang, Goodluck sayang aku 🤍',
+                    'Ini kamu udah buka di hp belum?',
                     '',
                     'success'
                   ).then((result) => {
                     Swal.fire(
-                      'Cemunguuttss belajarnyaa, Jangan keseringan begadang yaa sayang akuu🤍🤍',
+                      'kalau belum buka di hp ajaa yaa sayangkuu',
                       '',
                       'success'
                     ).then((result) => {
                       Swal.fire(
-                        'Im So Proud Of Youuu Sayangku tiitaatiituutt🤍🤍',
+                        'di hp IP malah lebih cakep sayang',
                         '',
                         'success'
                       ).then((result) => {
                         Swal.fire(
-                          'Oiya jangan bosen aku kirimin link ginian yaa',
+                          'hayolooo aku mauu ngasihh apaaa',
                           '',
                           'success'
                         ).then((result) => {
                           Swal.fire(
-                            'Semoga enggak ngeganggu kamu yaa sayang',
+                            'sayangkuu cantikku kepoo nii yaaa ???',
                             '',
                             'success'
                           ).then((result) => {
                             Swal.fire(
-                              'Kamu Pinter🤍, Kamu Cantikk🤍, Kamu Bisa🤍, Kamu Tangguhh🤍🤍',
+                              'ini bukan sembarangan lhoo sayangkuu, ini ada filosofinya, abis ini aku jelasin sayang🤍🤍',
                               '',
                               'success'
                             ).then((result) => {
                               Swal.fire(
-                                'Cumlaude AMIIN KENCENG YAA SAYANG 🤍🤍',
+                                'Mau doa duluuu sayangkuu cantikkuuu 🤍🤍',
                                 '',
                                 'success'
                               ).then((result) => {
                                 Swal.fire(
-                                  'Have a nice dayyy !!',
+                                  'dengan ini semoga kamuu sukaa yaa sayangkuu cantikku🤍🤍',
                                   '',
                                   'success'
                                 ).then((result) => {
                                   Swal.fire(
-                                    'Sukses UTS Semester3 nyaaa yaa sayang 🤍🤍',
+                                    'diluaran sana udan banya banget yang modelan biasa sayang 🤍🤍',
                                     '',
                                     'success'
                                   ).then((result) => {
                                     Swal.fire(
-                                      'Doa terbaik buat kamu yaa',
+                                      'ini aku custom buat kamuu sayangkuu cantikkuuu 🤍🤍',
                                       '',
                                       'success'
                                     ).then((result) => {
                                       Swal.fire(
-                                        'Boleh banget lhohh contekannya xixixi!! 🤍🤍',
+                                        'semoga kamuu happyy yaa sayangkuu cantikkuu 🤍🤍',
                                         '',
                                         'success'
                                       ).then((result) => {
                                         Swal.fire(
-                                          'Apapun hasilnya nanti kita syukuri yaa sayang, aku tau kamu udaa usaha maksimal sayang 🤍🤍',
+                                          'akuu kangenn bangett sama kamuu sayangkuu cintakuuu🤍🤍',
                                           '',
                                           'success'
                                         ).then((result) => {
                                           Swal.fire(
-                                            'Jangan lupa berdoa yaa sayang 🤍🤍',
+                                            'ARGHHH KANGENNNNNN 🤍🤍',
                                             '',
                                             'success'
                                           ).then((result) => {
                                             Swal.fire(
-                                              'Abiss uts refreshh yukk sayang 🤍🤍',
+                                              'Aku sayangg bangett sama kamuu cantikkuu tingtutt cancippp 🤍🤍',
                                               '',
                                               'success'
                                             ).then((result) => {
                                               Swal.fire(
-                                                'kita muterr muterr, liatt citylight sama maem maem yaa sayang 🤍🤍',
+                                                'ini filosodfinya sayangkuu cantikkuu, dimana akuu sengaja taruh bunganya di bagianku, karena apa ? 🤍🤍',
                                                 '',
                                                 'success'
                                               ).then((result) => {
                                                 Swal.fire(
-                                                  'Doa Terbaik buat kamu sayang 🤍, Have a nice day yaa sayang aku🤍',
+                                                  'Karena aku menjadi bagian mu dan menjadii bunga yang mendampingimu 🤍🤍 dan memberikan rasa aman,nyaman di kamu sayangkuu tingtuutt cancipp maaloppp 🤍🤍',
                                                   '',
                                                   'success'
                                                 ).then((result) => {
                                                   Swal.fire(
-                                                    'AKUU SAYANG KAMUU TIIITATIITUTT🤍🤍, MICCUUUU SAYANG AKUU LOPP🤍🤍🤍',
+                                                    'Habis ini klik okee sayangkuu cantikku 🤍🤍, MICCUUUU SAYANG AKUU LOPP🤍🤍🤍 AKUU SAYANG BANGETT SAMA KAMUU TINGTUTT 🤍🤍🤍',
                                                     '',
                                                     'success'
                                                   ).then((result) => {
-                                                    window.location.href = "file:///C:/Users/ryand/OneDrive/Documents/malop%20%F0%9F%A4%8D%F0%9F%A4%8D%F0%9F%A4%8D%F0%9F%A4%8D%F0%9F%A4%8D/buattitadarirba.github.io/flowers/index.html";
+                                                    window.location.replace("https://buattitadarirba.github.io/fts-flowers/flowerstingtut.html");
                                                   })
                                                 })
                                               })

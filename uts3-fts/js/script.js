@@ -169,7 +169,7 @@ document.querySelector(".tombol").addEventListener('click', function () {
                                                     '',
                                                     'success'
                                                   ).then((result) => {
-                                                    window.location.href = "file:///C:/Users/ryand/OneDrive/Documents/malop%20%F0%9F%A4%8D%F0%9F%A4%8D%F0%9F%A4%8D%F0%9F%A4%8D%F0%9F%A4%8D/buattitadarirba.github.io/flowers/index.html";
+
                                                   })
                                                 })
                                               })
